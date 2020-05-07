@@ -7,7 +7,7 @@ notifications:
     email:
       - wangdayong228@163.com
 
-branches:
-  only:
-  - gh-pages
-  - /.*/
+# branches:
+#   only:
+#   - gh-pages
+#   - /.*/
